@@ -11,9 +11,9 @@ This project uses strict, testable rules (groundedness, verbatim evidence quotes
 A model can be strong and still fail—these tests target operational reliability.
 
 ## Current baseline
-- **v0.1 — grounded Q&A (cloud baseline)**  
-  Models: GPT-5.2 Thinking, Claude Opus 4.5, Gemini 3 Thinking  
-  Run log: `runs/run_2026-01-05_v0.1_gqa_cloud.md`
+- **v0.1 — grounded Q&A (cloud baseline)**
+  - Models: GPT-5.2 Thinking, Claude Opus 4.5, Gemini 3 Thinking
+  - Run log: `runs/run_2026-01-05_v0.1_gqa_cloud.md`
 
 ## How to use
 1. Open the latest run log in `runs/`
